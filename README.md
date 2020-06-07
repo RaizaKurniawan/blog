@@ -91,6 +91,7 @@ For use this, do this:
 - edit .env with your database environment
 - composer update
 - php artisan voyager:install --with-dummy
+- php artisan serv
 - go to http://127.0.0.1/admin
 - username: admin@admin.com
 - password: password
