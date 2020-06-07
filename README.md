@@ -80,5 +80,24 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-=============================================================================================================================
-git clone 
+</br>
+</hr>
+
+For use this, do this:
+- make sure Laravel 7 have installed on your machine
+- xampp/sqlite
+- git clone https://github.com/RaizaKurniawan/blog.git
+- cd blog
+- edit .env with your database environment
+- composer update
+- php artisan voyager:install --with-dummy
+- go to http://127.0.0.1/admin
+- username: admin@admin.com
+- password: password
+
+for Front-end
+See in web.php and views folder
+
+
+Thanks
+~ Raiza
